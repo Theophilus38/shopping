@@ -1,0 +1,35 @@
+* {
+    background-color: grey;
+
+}
+
+body {
+    text-align: center;
+}
+
+button {
+    background-color: limegreen;
+}
+
+input {
+    background-color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+li {
+    /* font-size: 100px; */
+}
+
+.bingo-dog {
+    font-size: 50px;
+}
+
+#car {
+    color: red;
+    font-size: 70px;
+    background-color: black;
+    padding: 5px;
+}
